@@ -1,6 +1,6 @@
 # Calculator
 This is simple Calculator with python
-#How to Run Code?
+# How to Run Code?
 here is how.
 
 in linux make sure you have a python.
